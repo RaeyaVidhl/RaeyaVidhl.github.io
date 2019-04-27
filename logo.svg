@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="8000" height="3300" viewBox="0 0 8000 3300">
+  <defs>
+    <clipPath id="clip-Custom_Size_7">
+      <rect width="8000" height="3300"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_7" data-name="Custom Size – 7" clip-path="url(#clip-Custom_Size_7)">
+    <path id="Subtraction_6" data-name="Subtraction 6" d="M-14953.078,2300h0l-1186.92,0V0h2104.152L-12915,1600.5h-610.522L-14040,865.764V1800h654.173l-.35-.5h610.54l.349.5h1020.2L-11640,1635.546-11640,500h-1190.453l70.65,100,280.335,400,70.026,100H-11840V1571.23l-20.188,28.7-810.716.073L-13791.4,0H-11140V921.606L-10494.881,0h610.394l-1610.124,2300h-3214.763L-15340,1400h-300v400h336.508l350.414,500ZM-14540,500l-367.508,643.086L-14540,1669.178Zm-1100,0V900h291.255l231.569-400H-15640Zm6500,1800h-1255.891l350.143-500H-9640V871.829L-10640,2300h-610.73L-9640,0h500V2300Z" transform="translate(16640 500)"/>
+  </g>
+</svg>

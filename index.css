@@ -10,5 +10,19 @@ body {
 
 #logo {
   display: block;
-  width: 200px; 
+  width: 20%;
+}
+
+@media screen and (max-width: 1024px) {
+  #logo {
+    display: block;
+    width: 40%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #logo {
+    display: block;
+    width: 80%;
+  }
 }
